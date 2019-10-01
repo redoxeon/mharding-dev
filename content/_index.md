@@ -12,11 +12,12 @@ sections:
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I love spending time with my family. We play a lot of both board games and video games together. When we’re not doing that, I’ll probably be programming in Rust (my favorite language), playing Hollow Knight or Rocket League, or maybe even playing D&D.
+
+      I feel like my strengths are mainly in systems programming, but right now I’m doing web eLearning development with StateFoodSafety. I’m a student at Utah Valley University going for a Bachelor’s degree in Computer Science, and I’ve got a little over a year left there.
     actions:
+      - label: About Me
+        url: /about
       - label: Contact Me
         url: /contact
   - section_id: recent-posts
