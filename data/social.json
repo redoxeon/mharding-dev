@@ -1,10 +1,10 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/Redoxeon"
+      "type": "dev",
+      "title": "DEV",
+      "icon": "fa-dev",
+      "url": "https://dev.to/redoxeon"
     },
     null,
     {
@@ -19,6 +19,20 @@
       "title": "GitLab",
       "icon": "fa-gitlab",
       "url": "https://gitlab.com/redoxeon"
+    },
+    null,
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/Redoxeon"
+    },
+    null,
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/michael-harding-66b46422/"
     },
     null
   ]
