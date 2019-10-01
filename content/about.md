@@ -6,5 +6,3 @@ menu:
     weight: 5
     name: About
 ---
-
-test content works?

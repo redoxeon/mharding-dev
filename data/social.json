@@ -1,18 +1,25 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/Redoxeon"
-        },
-        null,
-        {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/redoxeon"
-        },
-        null
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/Redoxeon"
+    },
+    null,
+    {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/redoxeon"
+    },
+    null,
+    {
+      "type": "gitlab",
+      "title": "GitLab",
+      "icon": "fa-gitlab",
+      "url": "https://gitlab.com/redoxeon"
+    },
+    null
+  ]
 }
