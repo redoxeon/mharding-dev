@@ -1,5 +1,5 @@
 {
-    "name": "Mike Harding",
-    "email": "email@example.com",
-    "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--OksKss_K--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/2205/gM7pbalI.jpg"
+  "name": "Mike Harding",
+  "email": "redoxeon@mharding.dev",
+  "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--OksKss_K--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/2205/gM7pbalI.jpg"
 }
