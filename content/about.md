@@ -17,8 +17,6 @@ I’m working on a Bachelor’s degree in Computer Science at Utah Valley Univer
 
 I’m really interested in web assembly technology because it would allow me to use my favorite languages much more directly in a web development setting, and I think that sounds really fun.
 
-Linux has been an interest of mine for a while, but I’m still using Windows as my main operating system. I think what’s been going on there is I’ve been throwing myself too far out to sea with it when I should pick an easier distro to start out with, and not try to go all out with the customization while I’m still getting used to the whole thing. It probably doesn’t help that I get the itch to uninstall windows a week before a semester at university starts.
-
 My favorite fantasy author is Brandon Sanderson. He’s managed to link many of his separate series into one massive story that he calls the “Cosmere” and I love theorizing about it and reading everything to do with it.
 
 My current all time favorite game to play is Hollow Knight. I love it because it’s got a really simple way to do things, but the devs took the combat and platforming to it’s limits for the end game challenges. The story is deeper than it seems and way better than you might expect from a Kickstarter game, which makes it even better in my opinion. I connected with the story very deeply, and I was able to learn more about myself because of this game. I look forward to the sequel: Hollow Knight: Silksong
