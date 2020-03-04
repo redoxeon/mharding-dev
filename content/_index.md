@@ -5,7 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      Rust coding hobbyist, casual gamer, dedicated dad.
+      Rust coding enthusiast, casual gamer, dedicated dad.
   - section_id: about
     component: content_block.html
     type: contentblock
